@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "Dystopian novel",
+        "year": 1949
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "Novel about racism and justice",
+        "year": 1960
+    }
+]
